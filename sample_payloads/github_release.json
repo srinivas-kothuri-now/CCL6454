@@ -1,0 +1,21 @@
+{
+  "action": "published",
+  "release": {
+    "id": 123456,
+    "tag_name": "v1.0.0",
+    "name": "Release v1.0.0",
+    "body": "First stable release.",
+    "draft": false,
+    "prerelease": false,
+    "created_at": "2026-04-14T09:00:00Z",
+    "published_at": "2026-04-14T09:05:00Z",
+    "author": { "login": "octocat", "id": 1 }
+  },
+  "repository": {
+    "id": 654321,
+    "name": "my-integration",
+    "full_name": "acme-corp/my-integration",
+    "private": false
+  },
+  "sender": { "login": "octocat", "id": 1 }
+}
